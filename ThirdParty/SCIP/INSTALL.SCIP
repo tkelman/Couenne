@@ -1,0 +1,18 @@
+Installation of SCIP subroutines within COIN-OR.
+
+**********************************************************************
+Note: It is YOUR RESPONSIBILITY to ensure that you are entitled to
+      download and use this third party package.
+      Read the SCIP licence terms at http://scip.zib.de/licence.shtml
+**********************************************************************
+
+If you agree with the SCIP licence terms, then you may download SCIP at
+
+http://scip.zib.de
+
+and unpack it in this directory:
+
+gunzip scip-3.0.2.tgz
+tar xf scip-3.0.2.tar
+
+Then you need to rename the directory scip-3.0.2 into scip.
