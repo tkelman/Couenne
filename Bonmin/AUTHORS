@@ -1,0 +1,31 @@
+ 
+
+Initial authors of the code and documentation:
+
+ Pierre Bonami, project manager (IBM),
+ John J. Forrest (IBM Copr.),
+ Carl Laird, (Carnegie Mellon University),
+ Lazlo Ladanyi (IBM Copr.),
+ Jon Lee (IBM Copr.)
+ Francois Margot (Carnegie Mellon University)
+ Andreas Waechter (IBM Copr.)
+are the authors and contributors to this code. 
+
+Contributors:
+ Claudia D'amborsio (Universita di Bologna):
+    Code to handle two objective functions.
+ Pietro Belotti (Carnegie Mellon University)
+    Author of the Couenne code and the interface for Couenne and Bonmin.
+ Stefan Vigerske (Humboldt-University)
+    Found and fixed many bugs when developping the GAMSlink for Bonmin.
+  
+
+We would also like to acknoweldge  <br>
+ L.T. Biegler (Carnegie Mellon University)  <br>
+ A.R. Conn (IBM)  <br>
+ G. Cornuejols (LIF Marseille, Carnegie Mellon University)  <br>
+ I.E. Grossmann (Carnegie Mellon University)  <br>
+ J. Lee (IBM)  <br>
+ A. Lodi (IBM, Universita di Bologna)  <br>
+ N. Sawaya (Carnegie Mellon University)  <br>
+for their advices, help and other contributions to the underlying algorithms.
